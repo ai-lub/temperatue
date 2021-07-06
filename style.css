@@ -4,8 +4,8 @@ element.style {
 }
 
 .top {
-    padding: 20px;
-    vertical-align: middle;
+    padding: 2５px;
+/*     vertical-align: middle; */
     text-align: center;
     background-color: lightblue;
 }
