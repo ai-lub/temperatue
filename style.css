@@ -1,9 +1,12 @@
 .top {
-    width: 320px;
     padding: 25px;
 /*     vertical-align: middle; */
     text-align: center;
     background-color: lightblue;
+}
+
+div {
+    width: 320px;
 }
 
 h1, h2 {
