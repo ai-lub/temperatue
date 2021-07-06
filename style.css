@@ -1,49 +1,12 @@
 
 .top {
-    padding: 200px;
-    height: 300px;
+    padding: 20px;
+/*     height: 300px; */
+    vertical-align: middle;
     text-align: center;
     background-color: lightblue;
 }
-/* .top-container {
-    vertical-align: middle;
-    text-align: center;
-} */
+
 h1, h2 {
-    
     color: white;
-}
-.tru {
-    padding:200px;
-    height:350px;
-    background-color:paleturquoise;
-    display: none;
-}
-.bonus {
-    margin-left: 1250px;
-    font-size: 8px;
-    text-align: center;
-    width: 50px;
-    background-color: white;
-    color:paleturquoise;
-}
-.fal {
-    padding: 200px;
-    height:350px;
-    text-align: center;
-    background-color: lightslategray;
-    color: white;
-    display: none;
-}
-.hide-hint1 {
-    display: none;
-}
-.hide-hint2 {
-    display: none;
-}
-.hide-hint1-2 {
-    display: none;
-}
-.hide-hint1-2 {
-    display: none
 }
