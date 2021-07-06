@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <title>Get Set Temperature</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+</head>
+
+<body>
+  <div class="top">
+    <div class="top-container">
+      <h1 id="today">今日の日付</h1>
+      <p id="open"></p>
+      
+      <input id="water" placeholder="現在の水温">
+      <div id="water_boiler_on"></div>
+      
+      <input id="room" placeholder="現在の室温">
+      <div id="room_boiler_on"></div>
+      
+      <input id="expected_max" placeholder="予想最高気温">
+      <div id="thermo"></div>
+      
+      <input id="expected_min" placeholder="予想最低気温">
+      <div id="air_conditioner"></div>
+      
+      <input class="btn" id="js-btn" type="submit" value="送信">
+    </div>
+  </div>
+  
+
+  <script src="index.js"></script>
+</body>
+
+</html>
