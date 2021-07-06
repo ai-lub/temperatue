@@ -1,8 +1,5 @@
-element.style {
-    width: 320px;
-}
-
 .top {
+    width: 320px;
     padding: 25px;
 /*     vertical-align: middle; */
     text-align: center;
