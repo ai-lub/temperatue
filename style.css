@@ -1,14 +1,18 @@
 .top {
-    padding: 25px;
-/*     vertical-align: middle; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height:100%;
     text-align: center;
     background-color: lightblue;
 }
-
-div {
-    width: 320px;
+.top-container {
+    padding:30px;
+    text-align: center;
 }
 
 h1, h2 {
+    
     color: white;
 }
